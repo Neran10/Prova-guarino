@@ -1,0 +1,42 @@
+#divA{
+    background-color: #062c33;
+    height: 300px;
+}
+#divB{
+    background-color: #dee2e6;
+    height: 300px;
+}
+#divC{
+    background-color: blue;
+    height: 100px;
+}
+#divD{
+    background-color: darkblue;
+    height: 500px;
+}
+#divE{
+    background-color: #dee2e6;
+    height: 500px;
+}
+#divF{
+    background-color: darkturquoise;
+    height: 300px;
+}
+#divG{
+    background-color: #c69500;
+    height: 300px;
+}
+#divH{
+    background-color: #b1dfbb;
+    height: 300px;
+}
+#para{
+    font-family: Times New Roman;
+    font-size: 1.5em;
+    color: #ffffff;
+}
+#para2{
+    font-family: Times New Roman;
+    font-size: 1.5em;
+    color: #ffffff;
+}
